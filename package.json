@@ -1,0 +1,24 @@
+{
+  "name": "rpa-core",
+  "version": "1.0.0",
+  "description": "RPA for Porject Felí",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/saadti/rpa-core.git"
+  },
+  "keywords": [
+    "robot",
+    "rpa",
+    "selenium"
+  ],
+  "author": "Matheus Saad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saadti/rpa-core/issues"
+  },
+  "homepage": "https://github.com/saadti/rpa-core#readme"
+}
